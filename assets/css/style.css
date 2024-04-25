@@ -1,16 +1,19 @@
 /* Paleta de colores */
 :root {
-    --bg-contacts: #FFF;
-    --bg-chat: #E8EBE4;
-    --bg-btn: #A491D2;
-    --bg-btn-hover: #CDC3E6;
-    --bg-btn-focus: #E8EBE4;
-    --bg-btn-active: #D4DCFF;
-    --color-border1: #BEC1BB;
-    --color-border2: #E8EBE4;
-    --color-font1: #1B1F21;
+    margin: 0;
+    padding: 0;
+    --bg-contacts: #fff;
+    --bg-chat: #e8ebe4;
+    --bg-btn: #a491d2;
+    --bg-btn-hover: #cdc3e6;
+    --bg-btn-focus: #e8ebe4;
+    --bg-btn-active: #d4dcff;
+    --color-border1: #bec1bb;
+    --color-border2: #e8ebe4;
+    --color-font1: #1b1f21;
     --color-font2: #444749;
     --color-font3: #828485;
     --color-font4: #fff;
+    --font-family-primary: "Roboto", sans-serif;
+    --font-family-secondary: "Open Sans", sans-serif;
 }
-
