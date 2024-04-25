@@ -1,4 +1,4 @@
-# Desafío 1 - Sistema de mensajería
+# Desafío 7 - Sistema de mensajería
 
 Este proyecto es parte del Desafío 1, donde validaremos nuestros conocimientos sobre creación de diseños responsivos utilizando Flexbox. En este desafío, nos enfocaremos en la maquetación de la pantalla del sistema de mensajería y contactos para generar conversaciones en la plataforma de Contact Me SPA.
 
