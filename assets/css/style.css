@@ -131,6 +131,15 @@ h1 {
     color: var(--color-font3);
     font-size: 1.5rem;
     margin: 7px;
+    cursor: pointer;
+}
+
+.fa-regular:hover {
+    color: var(--bg-btn);
+}
+
+.fa-solid:hover {
+    color: var(--bg-btn);
 }
 
 .new-chat {
